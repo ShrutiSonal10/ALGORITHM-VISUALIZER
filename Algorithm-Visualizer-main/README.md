@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/algorithms-%20-yellow) ![](https://img.shields.io/badge/python-%20-green) ![](https://img.shields.io/badge/tkinter-%20-orange) ![](https://img.shields.io/badge/pygame-%20-red) ![](https://img.shields.io/badge/license-gpl%203.0-blue)
+![](https://img.shields.io/badge/algorithms-%20-yellow) ![](https://img.shields.io/badge/python-%20-green) ![](https://img.shields.io/badge/tkinter-%20-orange) ![](https://img.shields.io/badge/pygame-%20-red) 
 
 <br />
 <p align="center">
